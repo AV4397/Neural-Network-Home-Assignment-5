@@ -6,7 +6,7 @@ Project Overview
 
 This repository contains two main components:
 
-GAN on MNIST (gan_mnist.py)
+GAN on MNIST (gan_mnist.ipynb)
 
 Implements a basic Generative Adversarial Network in PyTorch.
 
@@ -14,7 +14,7 @@ Generates sample digit images at epochs 0, 50, and 100.
 
 Saves loss curves for both generator and discriminator.
 
-Data Poisoning Simulation (data_poisoning.py)
+Data Poisoning Simulation (data_poisoning.ipynb)
 
 Trains a logistic regression sentiment classifier on a toy dataset.
 
